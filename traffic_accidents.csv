@@ -1,0 +1,501 @@
+Accident_ID,Location,Weather_Condition,Road_Condition,Light_Condition,Vehicle_Type,Speed_kmph,Age_of_Driver,Number_of_Casualties,Severity
+AID1000,urban,Snow,Wet,Darkness,Truck,67,44,3,Major
+AID1001,URBAN,Fog,Icy,Daylight,Bike,57,54,0,Fatal
+AID1002,URBAN,Clear ,Icy,daylight,car,69,21,2,Major
+AID1003,Sub-urban,Rain,Dry,daylight,Bike,82,40,4,Major
+AID1004,Urban,Rain,Wet,Darkness - street lights,car,56,28,2,Minor
+AID1005,URBAN,rain,dry,DARKNESS,car,56,30,2,Minor
+AID1006,Urban,Clear,Icy,daylight,Truck,83,29,0,Minor
+AID1007,urban,rain,Icy,daylight,Bike,71,26,0,Major
+AID1008,urban,Clear,Dry,Darkness,Bike,52,35,0,Major
+AID1009,Rural,rain,Dry,Darkness - street lights,Bike,68,26,1,Fatal
+AID1010,URBAN,rain,Wet,Daylight,Car,53,37,3,Minor
+AID1011,Urban,Snow,Icy,Daylight,Bike,53,34,1,Minor
+AID1012,URBAN,Fog, WET,Daylight,Truck,63,32,3,Fatal
+AID1013,URBAN,Fog,Wet,Daylight,Car,31,25,3,Fatal
+AID1014,Sub-urban,Snow, WET,daylight,Truck,34,29,2,Fatal
+AID1015,Rural,Snow,Wet,Darkness,Car,51,42,2,Fatal
+AID1016,URBAN,rain,Icy,daylight,Car,44,40,3,Minor
+AID1017,Rural,rain, WET,Daylight,Bike,64,25,3,Major
+AID1018,Urban,Clear,Dry,Darkness - street lights,car,46,35,1,Minor
+AID1019,URBAN,Clear,Wet,Daylight,car,38,42,1,Fatal
+AID1020,Sub-urban,Clear, WET,DARKNESS,Truck,81,18,2,Fatal
+AID1021,Urban,Clear , WET,Darkness,Car,56,40,0,Fatal
+AID1022,Sub-urban,rain,Dry,Daylight,Car,61,28,3,Major
+AID1023,URBAN,Clear,Wet,Darkness,truck,38,40,1,Major
+AID1024,Rural,rain,Wet,Darkness - street lights,Bike,51,27,2,Fatal
+AID1025,Rural,,Wet,DARKNESS,Truck,61,16,1,Major
+AID1026,URBAN,, WET,Darkness,truck,42,18,3,Major
+AID1027,urban,Clear, WET,Darkness - street lights,truck,65,35,3,Major
+AID1028,urban,Clear ,Wet,Darkness,Bike,50,37,4,Major
+AID1029,Sub-urban,Clear, WET,daylight,Truck,55,25,0,Fatal
+AID1030,Urban,Clear,Wet,Darkness - street lights,Bike,50,41,4,Fatal
+AID1031,Urban,Rain,dry,Darkness - street lights,car,87,18,2,Major
+AID1032,URBAN,Fog,Dry,Darkness - street lights,Car,59,34,1,Fatal
+AID1033,urban,Rain,Wet,daylight,truck,44,22,2,Major
+AID1034,Urban,Clear,Dry,Darkness - street lights,car,72,28,3,Fatal
+AID1035,Rural,Rain,Icy,Darkness - street lights,Car,41,35,4,Minor
+AID1036,Urban,Snow,Wet,Darkness - street lights,Car,63,26,4,Minor
+AID1037,Sub-urban,Clear , WET,Darkness,Bike,30,31,4,Minor
+AID1038,urban,Clear ,Wet,Darkness,Truck,40,45,2,Minor
+AID1039,Sub-urban,Snow,Icy,Darkness - street lights,Truck,62,29,3,Minor
+AID1040,Rural,,Wet,Darkness - street lights,Car,71,43,1,Minor
+AID1041,Rural,Clear,Icy,DARKNESS,car,62,23,1,Fatal
+AID1042,Urban,Fog,Dry,Darkness - street lights,Truck,58,40,2,Major
+AID1043,Sub-urban,Clear ,Icy,Darkness - street lights,Car,55,49,4,Minor
+AID1044,URBAN,Snow,dry,daylight,truck,37,10,0,Major
+AID1045,urban,Fog, WET,daylight,Bike,49,27,2,Major
+AID1046,Urban,Fog,Wet,Darkness - street lights,truck,53,40,2,Minor
+AID1047,Sub-urban,Fog, WET,Darkness - street lights,truck,75,32,3,Major
+AID1048,urban,Clear,dry,daylight,car,65,38,1,Minor
+AID1049,Rural,Clear,dry,Darkness,Truck,33,28,2,Major
+AID1050,Urban,Clear,Wet,daylight,car,64,35,2,Major
+AID1051,Urban,rain,Dry,daylight,truck,54,33,4,Fatal
+AID1052,Urban,Clear ,Wet,Darkness - street lights,Car,49,46,4,Minor
+AID1053,URBAN,Clear,Dry,Darkness,car,69,37,0,Major
+AID1054,Urban,Clear ,dry,Daylight,car,75,38,3,Fatal
+AID1055,urban,rain,Icy,Darkness - street lights,Car,73,30,0,Minor
+AID1056,Sub-urban,Rain,Icy,DARKNESS,car,47,30,4,Fatal
+AID1057,Rural,rain, WET,daylight,Bike,55,30,1,Fatal
+AID1058,URBAN,Fog,Dry,DARKNESS,car,64,38,4,Minor
+AID1059,Sub-urban,Fog,Dry,Darkness,Truck,74,30,3,Minor
+AID1060,urban,Fog, WET,DARKNESS,Car,52,37,4,Fatal
+AID1061,urban,Snow,Dry,DARKNESS,car,57,55,3,Major
+AID1062,URBAN,rain,Icy,daylight,car,43,43,3,Major
+AID1063,URBAN,Clear ,Dry,Darkness,Truck,42,31,3,Major
+AID1064,Sub-urban,Snow, WET,Daylight,Bike,72,47,3,Fatal
+AID1065,Sub-urban,Clear, WET,Darkness,Truck,80,30,3,Fatal
+AID1066,Rural,rain,Icy,daylight,truck,58,14,1,Major
+AID1067,Rural,Clear ,Icy,Daylight,Car,75,24,0,Fatal
+AID1068,Rural,Clear,Icy,DARKNESS,Truck,65,16,2,Fatal
+AID1069,Urban,Clear ,Wet,Darkness - street lights,Car,50,31,0,Minor
+AID1070,Rural,,,daylight,truck,65,35,3,Fatal
+AID1071,urban,Clear,dry,daylight,truck,83,51,1,Minor
+AID1072,Rural,rain,Dry,DARKNESS,Bike,59,38,4,Major
+AID1073,URBAN,Rain,dry,Darkness,car,83,32,1,Major
+AID1074,Rural,Fog,Dry,DARKNESS,Truck,20,43,3,Major
+AID1075,Rural,rain,dry,Daylight,Car,72,12,1,Fatal
+AID1076,URBAN,Clear,dry,Daylight,car,61,37,1,Minor
+AID1077,Urban,Fog,,Darkness - street lights,car,55,42,3,Fatal
+AID1078,Rural,Clear ,Wet,DARKNESS,Car,61,20,1,Minor
+AID1079,Rural,Rain,dry,Daylight,car,30,46,2,Fatal
+AID1080,URBAN,rain, WET,DARKNESS,truck,56,38,2,Fatal
+AID1081,Sub-urban,Clear,Dry,Darkness - street lights,Car,65,30,1,Major
+AID1082,Rural,Fog, WET,Darkness - street lights,truck,82,41,4,Fatal
+AID1083,Urban,Snow, WET,daylight,truck,52,57,3,Major
+AID1084,Rural,rain,Icy,Darkness - street lights,car,47,36,2,Fatal
+AID1085,Sub-urban,Clear ,Wet,Darkness,Bike,52,37,4,Major
+AID1086,URBAN,Rain,Icy,Darkness - street lights,Car,73,30,1,Fatal
+AID1087,Sub-urban,Snow, WET,DARKNESS,Bike,64,26,4,Fatal
+AID1088,urban,Clear ,Dry,daylight,Truck,52,43,0,Major
+AID1089,URBAN,Fog,Icy,daylight,Bike,67,26,2,Major
+AID1090,Urban,,Wet,Darkness,truck,61,35,1,Minor
+AID1091,Rural,Snow,Icy,DARKNESS,truck,74,30,3,Major
+AID1092,URBAN,Clear,Wet,DARKNESS,car,49,39,1,Major
+AID1093,Urban,Snow, WET,DARKNESS,Car,55,38,3,Major
+AID1094,Rural,rain,Dry,daylight,car,54,45,1,Major
+AID1095,URBAN,,Icy,Daylight,truck,38,29,4,Major
+AID1096,urban,Snow,dry,Darkness,truck,64,32,4,Fatal
+AID1097,Rural,Clear ,Dry,,truck,63,25,4,Major
+AID1098,Urban,Snow, WET,daylight,Bike,60,30,0,Major
+AID1099,urban,Fog, WET,Darkness,truck,56,38,3,Major
+AID1100,urban,rain,Dry,DARKNESS,Bike,38,42,4,Minor
+AID1101,URBAN,Rain,Wet,daylight,Bike,53,25,0,Major
+AID1102,Rural,Clear ,Wet,Daylight,truck,54,43,3,Major
+AID1103,Urban,Clear , WET,daylight,Bike,47,48,1,Major
+AID1104,Rural,Snow,Dry,Darkness,Truck,57,39,0,Fatal
+AID1105,Rural,Rain,dry,Daylight,car,66,53,2,Major
+AID1106,Sub-urban,Clear,dry,Darkness,Bike,88,27,0,Major
+AID1107,URBAN,Snow,Dry,Darkness,Bike,62,22,0,Fatal
+AID1108,Sub-urban,Rain,Icy,,Bike,63,17,3,Minor
+AID1109,Rural,Rain,dry,DARKNESS,Truck,58,49,1,Minor
+AID1110,urban,Rain,dry,Darkness - street lights,Truck,31,41,2,Minor
+AID1111,URBAN,Rain, WET,daylight,Car,59,34,4,Major
+AID1112,Sub-urban,Clear ,Dry,daylight,Truck,60,37,4,Minor
+AID1113,urban,rain, WET,Darkness,car,96,23,0,Fatal
+AID1114,Urban,Clear , WET,daylight,car,57,59,3,Fatal
+AID1115,Urban,Fog,Dry,daylight,Truck,64,36,3,Major
+AID1116,Rural,rain,Icy,Daylight,Car,59,36,4,Fatal
+AID1117,URBAN,Clear, WET,Darkness - street lights,Bike,42,42,2,Minor
+AID1118,Sub-urban,Fog,dry,Darkness - street lights,car,77,39,1,Fatal
+AID1119,urban,Rain,dry,Daylight,Car,71,37,2,Minor
+AID1120,Urban,Snow,Icy,daylight,truck,71,27,1,Minor
+AID1121,urban,Fog,dry,daylight,Truck,46,39,4,Minor
+AID1122,Rural,Fog,Icy,daylight,Truck,81,53,1,Minor
+AID1123,urban,Clear,,Darkness - street lights,car,38,48,3,Fatal
+AID1124,URBAN,Snow,Dry,Daylight,truck,68,50,0,Fatal
+AID1125,Sub-urban,Snow,dry,DARKNESS,Bike,92,29,0,Fatal
+AID1126,urban,Snow,dry,daylight,car,45,25,4,Fatal
+AID1127,urban,Clear ,dry,Darkness - street lights,Truck,51,33,3,Fatal
+AID1128,Rural,Clear,Wet,Darkness,Truck,61,35,2,Major
+AID1129,URBAN,Clear ,Dry,Darkness - street lights,Bike,52,45,3,Major
+AID1130,urban,Rain,Dry,Daylight,car,36,18,0,Fatal
+AID1131,Sub-urban,Rain,Icy,DARKNESS,car,61,50,0,Fatal
+AID1132,URBAN,Snow,dry,Darkness,Truck,44,33,3,Fatal
+AID1133,Urban,Rain,Dry,Darkness - street lights,truck,67,30,3,Fatal
+AID1134,urban,rain,dry,Daylight,Car,46,24,0,Major
+AID1135,Sub-urban,Rain,dry,daylight,truck,83,18,2,Major
+AID1136,urban,Fog,dry,Daylight,Bike,48,43,4,Fatal
+AID1137,Sub-urban,Fog,Icy,DARKNESS,Truck,55,35,4,Minor
+AID1138,Rural,Rain,Wet,Darkness,car,72,22,3,Fatal
+AID1139,URBAN,Snow,dry,Daylight,truck,41,22,4,Fatal
+AID1140,urban,Clear,dry,DARKNESS,car,63,31,0,Major
+AID1141,urban,Clear,Dry,DARKNESS,Truck,79,51,0,Minor
+AID1142,urban,Clear,Dry,Daylight,car,35,32,3,Minor
+AID1143,Urban,Rain, WET,DARKNESS,car,62,19,3,Minor
+AID1144,Rural,Fog,Dry,DARKNESS,Bike,63,32,3,Major
+AID1145,URBAN,Rain,Icy,Darkness,Truck,71,32,2,Fatal
+AID1146,Sub-urban,rain,Dry,daylight,Car,41,8,4,Major
+AID1147,Urban,Clear,Icy,Darkness - street lights,Truck,40,34,3,Minor
+AID1148,Rural,Fog,Wet,Darkness - street lights,Bike,67,32,1,Minor
+AID1149,urban,Clear,dry,Daylight,car,64,41,1,Major
+AID1150,Rural,Rain,Wet,Daylight,Truck,63,53,0,Minor
+AID1151,Urban,rain,dry,Daylight,car,65,46,4,Major
+AID1152,urban,rain,Dry,Daylight,car,49,32,3,Fatal
+AID1153,urban,Snow, WET,Daylight,Bike,63,23,1,Fatal
+AID1154,Sub-urban,Clear, WET,Darkness - street lights,Truck,64,60,4,Major
+AID1155,URBAN,Rain,Dry,Darkness - street lights,Bike,49,35,0,Fatal
+AID1156,URBAN,rain, WET,daylight,Bike,87,35,2,Major
+AID1157,Urban,rain,Icy,Darkness,truck,67,34,4,Major
+AID1158,URBAN,Clear , WET,DARKNESS,Bike,42,36,4,Fatal
+AID1159,Urban,Snow,Dry,DARKNESS,truck,69,33,2,Fatal
+AID1160,URBAN,Snow,Icy,Darkness - street lights,Car,45,29,4,Major
+AID1161,URBAN,Clear,Icy,daylight,Truck,71,29,0,Minor
+AID1162,Sub-urban,Fog,Icy,Darkness - street lights,car,77,34,0,Major
+AID1163,Urban,Clear,Dry,Daylight,Car,47,29,2,Major
+AID1164,URBAN,Rain,Dry,DARKNESS,Car,74,27,3,Fatal
+AID1165,Rural,Fog,dry,daylight,Truck,66,36,1,Minor
+AID1166,URBAN,Rain,dry,Darkness - street lights,Truck,72,32,3,Fatal
+AID1167,urban,Snow,dry,Darkness,Truck,88,50,4,Fatal
+AID1168,Sub-urban,Fog, WET,Darkness,car,56,8,1,Fatal
+AID1169,Rural,Clear ,dry,Darkness,car,48,45,2,Major
+AID1170,urban,Rain,Icy,Darkness,car,46,47,2,Minor
+AID1171,urban,rain,dry,daylight,Bike,47,14,1,Fatal
+AID1172,Rural,Clear, WET,daylight,Bike,58,31,0,Major
+AID1173,Sub-urban,Clear,Dry,DARKNESS,Bike,65,31,1,Minor
+AID1174,URBAN,Clear ,Wet,Darkness,Bike,64,20,4,Fatal
+AID1175,Rural,Fog,dry,Darkness - street lights,Car,72,27,0,Major
+AID1176,urban,Rain,Wet,daylight,Truck,60,23,2,Minor
+AID1177,URBAN,Fog,Dry,Darkness - street lights,car,81,52,1,Fatal
+AID1178,urban,Snow,Dry,daylight,Bike,56,44,3,Fatal
+AID1179,URBAN,rain, WET,Darkness - street lights,truck,100,47,3,Major
+AID1180,URBAN,rain,dry,Daylight,truck,69,42,4,Minor
+AID1181,URBAN,rain, WET,Darkness - street lights,Bike,47,23,3,Fatal
+AID1182,Urban,Clear ,Icy,DARKNESS,car,43,29,1,Major
+AID1183,Rural,rain,Dry,Darkness,truck,67,39,1,Minor
+AID1184,Urban,Snow, WET,Darkness - street lights,car,56,22,3,Fatal
+AID1185,Rural,Rain,Icy,Darkness - street lights,truck,70,42,1,Fatal
+AID1186,urban,rain,dry,Daylight,Bike,67,32,4,Minor
+AID1187,Rural,Clear ,dry,Daylight,truck,58,31,0,Minor
+AID1188,URBAN,rain, WET,daylight,Bike,47,42,4,Major
+AID1189,URBAN,Fog,Dry,daylight,Bike,37,39,4,Fatal
+AID1190,URBAN,Snow, WET,daylight,Bike,53,31,1,Minor
+AID1191,Sub-urban,,dry,daylight,car,72,46,0,Major
+AID1192,Sub-urban,Clear ,Icy,DARKNESS,Truck,63,24,1,Fatal
+AID1193,URBAN,rain, WET,Darkness - street lights,car,41,41,2,Minor
+AID1194,Rural,Clear ,Wet,Darkness,Bike,62,40,1,Fatal
+AID1195,urban,Clear ,Wet,DARKNESS,Truck,65,31,1,Minor
+AID1196,Rural,Clear, WET,DARKNESS,car,46,38,1,Fatal
+AID1197,urban,Clear ,dry,DARKNESS,Bike,62,22,0,Fatal
+AID1198,urban,rain,Wet,DARKNESS,Bike,60,44,1,Minor
+AID1199,Rural,Fog,dry,DARKNESS,Car,42,33,0,Major
+AID1200,Sub-urban,Snow,Icy,Darkness,Truck,65,29,3,Major
+AID1201,Urban,Fog,dry,Darkness,car,68,45,2,Minor
+AID1202,urban,Snow,dry,Darkness - street lights,Bike,76,27,0,Fatal
+AID1203,Sub-urban,Snow, WET,Darkness,Car,75,20,3,Major
+AID1204,Sub-urban,rain,Dry,Darkness,Truck,39,19,0,Fatal
+AID1205,Urban,Clear, WET,Daylight,Truck,45,41,0,Major
+AID1206,Urban,Fog,Wet,,truck,67,22,2,Fatal
+AID1207,Sub-urban,Clear,Icy,Daylight,Car,67,52,4,Minor
+AID1208,Sub-urban,Clear ,Dry,Darkness - street lights,truck,67,14,4,Fatal
+AID1209,Rural,Clear ,Icy,DARKNESS,truck,117,51,0,Minor
+AID1210,URBAN,Clear ,Wet,Darkness - street lights,Truck,68,37,1,Major
+AID1211,Sub-urban,Clear,dry,,Bike,77,34,3,Minor
+AID1212,Sub-urban,Fog,Wet,Darkness - street lights,car,74,29,1,Major
+AID1213,URBAN,Clear,Icy,Darkness,Truck,69,38,1,Major
+AID1214,Sub-urban,Clear ,Icy,Darkness,car,55,34,0,Minor
+AID1215,URBAN,Snow,Icy,Daylight,car,71,46,0,Major
+AID1216,Rural,Clear ,Dry,Daylight,Bike,48,36,0,Fatal
+AID1217,Urban,rain,Icy,Darkness,car,56,36,0,Fatal
+AID1218,URBAN,rain,dry,daylight,Truck,52,31,4,Major
+AID1219,Urban,Fog,Icy,Daylight,Truck,61,34,0,Minor
+AID1220,Sub-urban,Clear ,Dry,daylight,Car,94,38,4,Major
+AID1221,urban,Clear ,dry,Darkness,Car,31,17,4,Major
+AID1222,Urban,Fog,Wet,Darkness,car,70,21,0,Major
+AID1223,Rural,Rain,Dry,daylight,Truck,35,42,2,Major
+AID1224,URBAN,Snow, WET,Darkness,Truck,52,36,3,Minor
+AID1225,Urban,rain, WET,DARKNESS,truck,76,33,1,Minor
+AID1226,Rural,Clear ,Dry,DARKNESS,truck,60,35,4,Minor
+AID1227,urban,Fog,Wet,daylight,Truck,43,38,3,Fatal
+AID1228,Sub-urban,rain,Wet,Daylight,truck,49,29,2,Minor
+AID1229,Sub-urban,Clear ,,daylight,truck,70,27,1,Fatal
+AID1230,urban,Fog,Wet,daylight,Truck,49,36,1,Minor
+AID1231,urban,Snow,dry,DARKNESS,Bike,63,25,4,Major
+AID1232,URBAN,Clear ,,Darkness - street lights,Truck,60,39,0,Major
+AID1233,Sub-urban,Clear ,Wet,Darkness,Truck,50,17,2,Minor
+AID1234,Rural,Clear ,dry,Darkness,Truck,92,45,4,Fatal
+AID1235,Rural,Clear,Wet,Darkness,Bike,69,39,2,Fatal
+AID1236,urban,Fog,Wet,daylight,Truck,29,37,0,Minor
+AID1237,URBAN,rain,dry,Daylight,car,62,44,0,Fatal
+AID1238,Rural,Clear,dry,DARKNESS,Bike,50,51,4,Major
+AID1239,Urban,Fog,dry,,truck,72,45,0,Major
+AID1240,Rural,Snow,Wet,Daylight,truck,48,16,3,Fatal
+AID1241,Urban,Snow,dry,Darkness,truck,58,22,1,Major
+AID1242,Urban,Rain,Dry,Darkness - street lights,truck,67,28,4,Major
+AID1243,Urban,rain,dry,DARKNESS,Truck,72,35,2,Minor
+AID1244,Urban,Rain,dry,daylight,Truck,41,40,3,Minor
+AID1245,URBAN,Clear , WET,Darkness - street lights,car,54,27,4,Fatal
+AID1246,Rural,, WET,Darkness - street lights,truck,52,36,0,Major
+AID1247,URBAN,Clear,Wet,DARKNESS,truck,50,27,0,Major
+AID1248,urban,Fog,Wet,Darkness,truck,86,28,0,Major
+AID1249,Sub-urban,Clear ,Icy,daylight,Truck,66,20,0,Major
+AID1250,URBAN,Clear ,Dry,daylight,car,41,25,2,Minor
+AID1251,Sub-urban,Fog,Icy,Darkness,truck,73,21,3,Fatal
+AID1252,urban,Clear ,Icy,Daylight,Bike,91,25,1,Major
+AID1253,urban,Fog, WET,DARKNESS,car,75,45,2,Minor
+AID1254,Sub-urban,rain,Wet,daylight,truck,37,25,2,Fatal
+AID1255,Rural,rain, WET,Darkness - street lights,Bike,52,61,1,Minor
+AID1256,URBAN,Rain,Wet,Darkness - street lights,Bike,79,39,1,Major
+AID1257,Rural,rain, WET,Darkness,truck,49,36,0,Major
+AID1258,Rural,Snow,dry,DARKNESS,car,66,26,2,Fatal
+AID1259,URBAN,Snow,Wet,Daylight,truck,71,42,4,Fatal
+AID1260,Sub-urban,Clear ,dry,Daylight,truck,46,29,1,Minor
+AID1261,Urban,Clear,,daylight,Truck,59,36,1,Major
+AID1262,Rural,Clear,dry,Daylight,car,11,60,3,Minor
+AID1263,urban,Clear,dry,Daylight,truck,44,34,4,Minor
+AID1264,urban,Snow, WET,DARKNESS,truck,56,46,4,Minor
+AID1265,URBAN,Snow,,Darkness,Bike,41,27,1,Major
+AID1266,urban,Clear,dry,daylight,Truck,84,34,0,Minor
+AID1267,urban,Snow,dry,Darkness,Truck,38,52,3,Minor
+AID1268,URBAN,Fog,Wet,Darkness,Truck,53,28,4,Major
+AID1269,urban,Rain,dry,DARKNESS,Truck,61,53,1,Minor
+AID1270,Rural,Snow,Icy,Daylight,Truck,81,42,4,Minor
+AID1271,Rural,Clear ,Dry,Daylight,truck,38,29,3,Minor
+AID1272,Rural,Snow,Icy,Darkness,car,77,41,3,Major
+AID1273,URBAN,Rain,Dry,daylight,truck,60,44,2,Minor
+AID1274,urban,Clear ,Icy,Darkness,truck,45,41,1,Fatal
+AID1275,Urban,Snow,Wet,Darkness - street lights,Car,66,19,3,Major
+AID1276,Rural,Clear , WET,Darkness - street lights,Car,62,27,2,Minor
+AID1277,Rural,Clear ,dry,DARKNESS,truck,50,32,2,Minor
+AID1278,URBAN,Clear , WET,DARKNESS,car,61,34,4,Major
+AID1279,urban,Rain,Wet,DARKNESS,car,54,41,4,Minor
+AID1280,urban,Clear,dry,Daylight,car,61,36,2,Major
+AID1281,Sub-urban,Clear,dry,Darkness - street lights,Bike,69,21,4,Major
+AID1282,Urban,rain,Wet,DARKNESS,car,83,38,3,Minor
+AID1283,urban,rain,Icy,Darkness - street lights,car,41,41,0,Major
+AID1284,Sub-urban,Clear ,Icy,Daylight,truck,91,40,3,Minor
+AID1285,Rural,Rain,Wet,DARKNESS,truck,30,45,2,Fatal
+AID1286,urban,Fog,Dry,Daylight,Truck,57,43,2,Minor
+AID1287,urban,Clear,Dry,daylight,Car,68,39,3,Fatal
+AID1288,URBAN,Clear,Icy,daylight,truck,64,34,4,Minor
+AID1289,Sub-urban,Rain, WET,daylight,Car,50,18,4,Minor
+AID1290,Urban,Snow,Dry,daylight,car,56,39,2,Major
+AID1291,urban,Rain,dry,daylight,Truck,52,37,1,Fatal
+AID1292,Sub-urban,Snow,Dry,DARKNESS,truck,51,37,4,Fatal
+AID1293,urban,, WET,Darkness - street lights,car,72,22,3,Major
+AID1294,urban,Clear ,Dry,daylight,Bike,65,24,4,Minor
+AID1295,Sub-urban,Fog,Wet,Daylight,truck,49,45,3,Minor
+AID1296,Urban,Snow,Wet,DARKNESS,truck,73,34,2,Major
+AID1297,urban,Snow, WET,Darkness,truck,64,41,4,Major
+AID1298,Rural,Rain, WET,DARKNESS,truck,72,35,3,Minor
+AID1299,urban,Clear,dry,daylight,Bike,69,35,2,Fatal
+AID1300,Rural,Clear,,Darkness - street lights,truck,47,44,1,Minor
+AID1301,URBAN,Clear ,dry,Darkness,truck,51,29,3,Minor
+AID1302,Urban,Clear,dry,Daylight,Truck,71,35,1,Major
+AID1303,Urban,Clear,Wet,DARKNESS,Car,69,30,1,Fatal
+AID1304,URBAN,Fog,Icy,daylight,Truck,59,30,0,Major
+AID1305,Sub-urban,Clear,Icy,Darkness - street lights,car,61,31,4,Minor
+AID1306,urban,Clear,Dry,daylight,car,79,37,3,Fatal
+AID1307,urban,Fog,Dry,daylight,Car,51,30,1,Major
+AID1308,Rural,Snow, WET,Darkness - street lights,Truck,68,47,0,Major
+AID1309,Rural,Clear ,Icy,daylight,truck,56,26,2,Fatal
+AID1310,URBAN,Rain, WET,daylight,Car,56,33,3,Major
+AID1311,Urban,Clear , WET,Daylight,car,76,30,1,Minor
+AID1312,Sub-urban,Rain,dry,Daylight,Car,72,49,4,Fatal
+AID1313,URBAN,Rain, WET,daylight,Bike,72,36,0,Major
+AID1314,Sub-urban,Rain,Wet,DARKNESS,Truck,79,45,1,Major
+AID1315,Sub-urban,,Icy,Darkness - street lights,car,60,20,4,Fatal
+AID1316,urban,Fog,dry,DARKNESS,truck,70,37,1,Major
+AID1317,URBAN,rain,Wet,daylight,Bike,55,43,3,Minor
+AID1318,urban,Clear ,dry,,car,64,35,3,Minor
+AID1319,URBAN,Clear ,Dry,Darkness - street lights,Bike,58,45,3,Fatal
+AID1320,URBAN,Rain,dry,daylight,truck,61,29,0,Fatal
+AID1321,Urban,Rain,Dry,Darkness - street lights,truck,68,49,3,Fatal
+AID1322,Rural,rain,dry,daylight,Bike,47,57,4,Fatal
+AID1323,Sub-urban,Clear ,dry,Darkness - street lights,truck,91,31,1,Major
+AID1324,Sub-urban,Clear ,Wet,DARKNESS,Car,44,30,2,Minor
+AID1325,Rural,Clear , WET,Daylight,truck,41,49,4,Minor
+AID1326,Rural,Snow,Icy,Daylight,truck,77,50,4,Fatal
+AID1327,URBAN,Fog, WET,daylight,Truck,71,29,3,Minor
+AID1328,Urban,Clear,Wet,Darkness,Truck,69,30,0,Minor
+AID1329,Sub-urban,Clear ,Wet,Daylight,Truck,69,32,1,Minor
+AID1330,Sub-urban,Clear , WET,Darkness - street lights,car,59,21,0,Major
+AID1331,urban,Fog,Icy,DARKNESS,car,46,25,1,Fatal
+AID1332,Sub-urban,Clear,Wet,daylight,Bike,61,24,1,Major
+AID1333,URBAN,Snow,dry,Daylight,truck,49,27,0,Minor
+AID1334,Urban,rain,Wet,,Truck,74,34,4,Minor
+AID1335,urban,Clear ,Dry,Daylight,truck,57,37,1,Major
+AID1336,urban,rain,Wet,Darkness,Bike,47,50,0,Minor
+AID1337,urban,rain,Wet,Daylight,truck,55,25,1,Major
+AID1338,URBAN,rain,dry,daylight,truck,66,44,2,Minor
+AID1339,Sub-urban,Snow,Dry,daylight,truck,51,32,4,Minor
+AID1340,URBAN,Snow, WET,Darkness,car,47,34,3,Fatal
+AID1341,urban,Clear ,Dry,,Car,63,41,1,Fatal
+AID1342,Urban,Snow,Icy,daylight,Car,63,23,2,Major
+AID1343,Sub-urban,rain, WET,Darkness - street lights,car,52,38,3,Minor
+AID1344,urban,Clear ,Wet,Darkness - street lights,Car,52,36,3,Fatal
+AID1345,Sub-urban,rain, WET,Darkness,Car,63,39,1,Major
+AID1346,Sub-urban,Rain, WET,Darkness,Truck,38,37,0,Fatal
+AID1347,URBAN,Snow,,Daylight,car,38,59,1,Fatal
+AID1348,Rural,Snow, WET,Daylight,Truck,49,28,2,Minor
+AID1349,urban,Clear , WET,daylight,Car,56,29,3,Major
+AID1350,URBAN,rain,Icy,Darkness,Truck,64,28,1,Fatal
+AID1351,Rural,Clear ,Wet,Darkness,truck,82,29,0,Minor
+AID1352,Urban,Clear ,Dry,Darkness - street lights,truck,72,28,1,Fatal
+AID1353,Rural,Clear, WET,daylight,car,57,46,4,Minor
+AID1354,Urban,Clear,dry,Darkness,car,59,49,0,Major
+AID1355,Urban,Rain,Dry,Daylight,truck,44,29,2,Minor
+AID1356,urban,Rain,dry,Darkness - street lights,Car,59,26,3,Minor
+AID1357,Sub-urban,Clear,Dry,Daylight,truck,55,39,1,Minor
+AID1358,Rural,Rain,dry,Darkness,Bike,64,29,0,Minor
+AID1359,Urban,rain,dry,Darkness,car,47,41,4,Fatal
+AID1360,Sub-urban,Clear,Wet,Daylight,car,67,37,0,Minor
+AID1361,URBAN,Fog,Wet,Darkness - street lights,truck,82,19,4,Major
+AID1362,Urban,Fog,Wet,Daylight,truck,58,50,2,Minor
+AID1363,Urban,Rain,Dry,Darkness - street lights,Truck,66,52,3,Minor
+AID1364,Rural,Clear, WET,Darkness,Truck,70,28,2,Fatal
+AID1365,Sub-urban,Clear ,dry,daylight,Bike,53,31,1,Major
+AID1366,Rural,Clear,dry,DARKNESS,car,63,37,0,Fatal
+AID1367,URBAN,rain,Dry,Daylight,Bike,60,38,4,Major
+AID1368,Rural,Rain,dry,DARKNESS,truck,61,41,4,Major
+AID1369,URBAN,rain,Icy,daylight,truck,48,55,0,Fatal
+AID1370,URBAN,Fog, WET,Daylight,truck,60,33,0,Major
+AID1371,Sub-urban,rain,dry,daylight,car,67,27,1,Major
+AID1372,Urban,Clear,dry,DARKNESS,car,81,21,2,Major
+AID1373,Sub-urban,Fog, WET,Daylight,truck,74,27,4,Fatal
+AID1374,Urban,Snow,Icy,Daylight,Truck,92,34,1,Minor
+AID1375,URBAN,Clear ,Dry,daylight,Car,48,52,2,Minor
+AID1376,Rural,Fog, WET,DARKNESS,Bike,73,29,1,Fatal
+AID1377,Rural,Clear ,Icy,DARKNESS,Car,62,37,4,Minor
+AID1378,Rural,Rain,Dry,Darkness - street lights,Bike,92,34,0,Minor
+AID1379,urban,rain, WET,Darkness - street lights,truck,47,46,0,Major
+AID1380,Sub-urban,rain,dry,Daylight,Truck,47,60,2,Fatal
+AID1381,URBAN,Snow,Icy,Daylight,truck,51,29,3,Fatal
+AID1382,Rural,Clear ,dry,daylight,Truck,28,30,2,Fatal
+AID1383,Rural,Fog, WET,Darkness,car,52,45,3,Major
+AID1384,Sub-urban,Clear ,Wet,DARKNESS,car,48,41,1,Major
+AID1385,Rural,Clear,Wet,Daylight,car,62,53,1,Major
+AID1386,Rural,Clear,Wet,daylight,car,65,40,4,Major
+AID1387,urban,Fog,Wet,Daylight,Bike,88,31,3,Fatal
+AID1388,Urban,Fog,Dry,DARKNESS,Truck,74,40,4,Fatal
+AID1389,URBAN,Snow,Icy,Darkness,Truck,51,46,0,Fatal
+AID1390,Sub-urban,Clear,dry,Daylight,car,46,43,3,Major
+AID1391,Rural,Clear,Dry,Darkness - street lights,Truck,67,40,2,Major
+AID1392,urban,Clear,Wet,Darkness - street lights,Car,40,45,0,Major
+AID1393,Sub-urban,Clear ,Icy,DARKNESS,Truck,87,46,0,Fatal
+AID1394,Rural,Fog, WET,daylight,Truck,77,48,2,Minor
+AID1395,Urban,Clear ,Icy,Daylight,Car,52,41,0,Minor
+AID1396,Sub-urban,Fog,Dry,Daylight,Bike,34,33,3,Minor
+AID1397,Rural,Clear,Wet,Daylight,Truck,80,36,4,Fatal
+AID1398,Urban,Snow, WET,daylight,Truck,58,47,0,Fatal
+AID1399,Urban,Clear,dry,Darkness,car,78,26,3,Minor
+AID1400,URBAN,Clear ,Dry,Daylight,car,36,38,1,Fatal
+AID1401,Rural,Rain, WET,Darkness - street lights,Car,51,31,3,Fatal
+AID1402,urban,rain,Icy,,truck,60,35,4,Minor
+AID1403,Sub-urban,Fog,Dry,Daylight,car,60,47,3,Minor
+AID1404,urban,rain,Icy,Daylight,Car,53,36,2,Minor
+AID1405,Rural,Fog, WET,Darkness,Bike,69,35,4,Minor
+AID1406,Rural,Rain, WET,daylight,car,43,21,1,Major
+AID1407,Rural,Rain,Wet,Daylight,Bike,57,42,2,Major
+AID1408,urban,rain,Wet,Daylight,truck,61,41,3,Minor
+AID1409,urban,Clear ,Dry,Daylight,truck,67,56,4,Minor
+AID1410,Urban,Snow,Dry,DARKNESS,car,70,31,1,Fatal
+AID1411,Rural,Clear,dry,Darkness - street lights,car,43,37,2,Major
+AID1412,Rural,Fog,Icy,DARKNESS,car,36,37,1,Major
+AID1413,URBAN,Rain, WET,Daylight,car,79,50,3,Major
+AID1414,URBAN,Clear, WET,Darkness - street lights,Car,64,34,1,Minor
+AID1415,urban,Clear ,Wet,,truck,48,37,0,Fatal
+AID1416,Rural,Fog,dry,daylight,Bike,83,41,2,Fatal
+AID1417,URBAN,rain,Icy,Darkness,truck,61,36,1,Fatal
+AID1418,URBAN,Rain, WET,DARKNESS,car,77,30,3,Major
+AID1419,URBAN,Fog,Wet,Darkness - street lights,car,61,36,3,Fatal
+AID1420,Sub-urban,rain,Dry,DARKNESS,truck,90,45,1,Minor
+AID1421,Urban,Clear ,Icy,DARKNESS,car,86,24,3,Major
+AID1422,Urban,Rain,Wet,Daylight,truck,56,36,4,Minor
+AID1423,Urban,Fog,dry,Darkness,truck,74,27,4,Major
+AID1424,Sub-urban,Clear ,Dry,DARKNESS,Truck,69,46,4,Major
+AID1425,Rural,Clear ,Dry,Darkness,Bike,80,19,0,Major
+AID1426,Rural,rain,dry,DARKNESS,truck,45,29,1,Minor
+AID1427,Sub-urban,Clear,dry,Daylight,car,70,38,0,Major
+AID1428,urban,Rain,Icy,Daylight,truck,75,50,3,Major
+AID1429,Sub-urban,rain,Dry,Daylight,Truck,33,34,0,Minor
+AID1430,URBAN,Clear ,Dry,DARKNESS,Bike,42,29,3,Fatal
+AID1431,urban,Fog,dry,Darkness,Truck,29,53,3,Minor
+AID1432,Rural,Snow,Wet,daylight,truck,55,20,2,Fatal
+AID1433,Rural,Snow, WET,Daylight,Bike,70,13,4,Major
+AID1434,Rural,rain, WET,daylight,Car,82,39,3,Minor
+AID1435,urban,Clear , WET,Daylight,truck,61,29,2,Major
+AID1436,URBAN,Snow,,Daylight,Car,84,24,4,Major
+AID1437,Sub-urban,Clear ,Dry,Darkness - street lights,car,39,42,3,Major
+AID1438,Sub-urban,Fog,Dry,Darkness - street lights,Bike,34,37,3,Fatal
+AID1439,Rural,Rain,Icy,Darkness - street lights,Car,59,29,0,Fatal
+AID1440,Rural,Rain,Dry,Darkness - street lights,truck,65,22,0,Major
+AID1441,urban,rain,Icy,Darkness - street lights,Car,59,43,4,Major
+AID1442,Sub-urban,rain, WET,Darkness,Car,28,41,3,Fatal
+AID1443,Sub-urban,Snow,Wet,Darkness,Truck,58,34,1,Major
+AID1444,Rural,Clear , WET,Darkness - street lights,Truck,40,53,0,Fatal
+AID1445,Rural,rain,Dry,Darkness,Truck,70,24,4,Fatal
+AID1446,Rural,Fog,dry,Daylight,truck,65,19,3,Major
+AID1447,Rural,Clear,dry,Darkness,Truck,45,28,3,Fatal
+AID1448,URBAN,Fog,dry,daylight,Truck,52,34,1,Major
+AID1449,Sub-urban,Clear ,Icy,DARKNESS,Truck,44,37,4,Fatal
+AID1450,Urban,Clear ,Icy,daylight,car,59,32,3,Fatal
+AID1451,urban,Clear, WET,daylight,Bike,74,38,0,Fatal
+AID1452,Urban,Snow,Icy,DARKNESS,truck,45,22,1,Fatal
+AID1453,Rural,rain,Wet,Darkness - street lights,Bike,67,49,4,Fatal
+AID1454,urban,Rain,dry,DARKNESS,car,52,34,1,Major
+AID1455,URBAN,Rain,Wet,Daylight,truck,48,46,0,Fatal
+AID1456,Urban,Rain,Dry,daylight,car,58,38,4,Major
+AID1457,URBAN,Snow,Wet,daylight,Truck,44,39,1,Minor
+AID1458,Urban,Clear,dry,Darkness - street lights,Car,51,40,2,Major
+AID1459,Sub-urban,rain,dry,Daylight,Truck,42,39,0,Major
+AID1460,Urban,Snow, WET,Daylight,truck,89,41,0,Fatal
+AID1461,urban,Fog,dry,Darkness,Bike,60,48,0,Minor
+AID1462,Urban,Clear,Dry,daylight,Truck,49,36,2,Minor
+AID1463,URBAN,Snow,Wet,Darkness - street lights,Bike,63,42,2,Fatal
+AID1464,urban,rain,Wet,daylight,Truck,58,34,3,Major
+AID1465,Urban,rain,Dry,Darkness - street lights,truck,56,49,1,Major
+AID1466,Urban,Clear, WET,daylight,Bike,69,28,3,Major
+AID1467,Urban,Snow,dry,Darkness,car,71,53,1,Fatal
+AID1468,urban,rain,Icy,Daylight,truck,52,34,2,Fatal
+AID1469,Sub-urban,rain,Icy,Darkness - street lights,Bike,51,20,2,Fatal
+AID1470,URBAN,Snow,Wet,DARKNESS,Truck,55,36,3,Minor
+AID1471,Rural,Rain,Wet,Darkness - street lights,Car,25,28,4,Major
+AID1472,URBAN,rain,Wet,Darkness,truck,37,43,3,Fatal
+AID1473,Rural,Snow, WET,DARKNESS,truck,80,28,1,Fatal
+AID1474,Sub-urban,Clear ,Icy,DARKNESS,car,84,30,3,Major
+AID1475,URBAN,Clear ,Dry,daylight,Bike,56,16,0,Minor
+AID1476,URBAN,Rain,Dry,DARKNESS,Truck,68,30,1,Minor
+AID1477,urban,Rain,dry,Darkness,Truck,64,10,1,Major
+AID1478,URBAN,Rain,Icy,Darkness,truck,106,19,4,Minor
+AID1479,urban,rain, WET,daylight,Truck,76,42,2,Fatal
+AID1480,Sub-urban,Snow, WET,daylight,Truck,58,42,1,Fatal
+AID1481,Urban,Fog,dry,Darkness,car,45,39,2,Major
+AID1482,urban,Clear,Wet,DARKNESS,truck,35,25,3,Minor
+AID1483,Rural,rain, WET,daylight,car,63,34,0,Major
+AID1484,urban,rain,Wet,daylight,car,48,34,4,Major
+AID1485,Sub-urban,Snow,Wet,daylight,car,38,23,2,Minor
+AID1486,URBAN,Clear ,Icy,DARKNESS,truck,50,50,1,Fatal
+AID1487,urban,Clear,dry,daylight,Truck,43,43,2,Fatal
+AID1488,Rural,Clear ,Dry,Darkness - street lights,truck,85,32,1,Major
+AID1489,Urban,Snow,Wet,Daylight,Truck,73,35,2,Minor
+AID1490,urban,rain,Dry,Darkness - street lights,Car,59,37,1,Fatal
+AID1491,URBAN,Rain,Dry,Daylight,Car,82,14,3,Major
+AID1492,urban,Fog, WET,Darkness,Car,61,32,1,Major
+AID1493,Urban,Clear,Icy,Darkness,Truck,47,28,1,Fatal
+AID1494,Urban,Fog,dry,DARKNESS,truck,82,24,0,Major
+AID1495,Rural,rain, WET,Daylight,car,68,32,1,Fatal
+AID1496,URBAN,Clear ,Dry,DARKNESS,Car,44,52,0,Fatal
+AID1497,URBAN,rain,Icy,Daylight,Car,57,41,4,Major
+AID1498,Sub-urban,Rain,dry,daylight,Bike,46,29,0,Fatal
+AID1499,urban,Clear ,Icy,Darkness,car,39,40,3,Major
